@@ -38,10 +38,10 @@ ansible_playbooks/
 
 ## 🖼 Screenshots
 
-### ✅ Ansible Playbook 
+### ✅ Ansible Playbook Run
 ![Ansible Run Screenshot](https://github.com/user-attachments/assets/ae70a63c-0cf1-4601-bcfd-cb04cfbeeea7)
 
-### ✅ Ansible Playbook Run
+### ✅ Ansible Playbook
 ![Web Output Screenshot](https://github.com/user-attachments/assets/ae70a63c-0cf1-4601-bcfd-cb04cfbeeea7)
 
 
