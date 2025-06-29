@@ -38,11 +38,11 @@ ansible_playbooks/
 
 ## 🖼 Screenshots
 
-### ✅ Ansible Playbook Run
-![Ansible Run Screenshot](https://i.imgur.com/x1YLVOS.png)
+### ✅ Ansible Playbook 
+![Ansible Run Screenshot](https://github.com/user-attachments/assets/ae70a63c-0cf1-4601-bcfd-cb04cfbeeea7)
 
-### ✅ Web Page Deployed via Ansible
-![Web Output Screenshot](https://i.imgur.com/TvT8zOr.png)
+### ✅ Ansible Playbook Run
+![Web Output Screenshot](https://github.com/user-attachments/assets/ae70a63c-0cf1-4601-bcfd-cb04cfbeeea7)
 
 
 ---
