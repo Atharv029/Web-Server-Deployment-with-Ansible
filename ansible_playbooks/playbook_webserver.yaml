@@ -1,0 +1,30 @@
+---
+
+- name: Starting web server through ansible
+  hosts: webserver
+  become: true
+
+  tasks:
+
+    - name: update cache
+      apt:
+        update_cache: yes
+
+    - name: Install Nginx
+      apt:
+        name: nginx
+        state: present
+
+    - name: copy index.html file
+      copy:
+        src: files/index.html
+        dest: /var/www/html/index.html
+        owner: www-data
+        group: www-data
+        mode: '0644'
+
+    - name: start Nginx service
+      service:
+        name: nginx
+        state: started
+        enabled: yes
